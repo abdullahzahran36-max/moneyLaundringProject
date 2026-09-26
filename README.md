@@ -19,7 +19,7 @@ Financial institutions process millions of high-throughput payments daily, where
 | [abdullah anas zahran ] | computer information system | [ abdullahzahran36@gmail.com / https://github.com/abdullahzahran36 ] |
 | [ ليث سامي اسماعيل الحواجرة ] |  ئكاء اصطناعي وعلم بيانات (AI & DS) | [ laith.alhawjreh@gmail.com / https://github.com/Laith-Alhawajreh ] |
 | [ Obaeda Majde ] | [ Computer Science ] | [ https://github.com/Obaedamjde ] |
-| [ علا سليم هنانده ] | Data science & Artificial intelligence | [ olasaleemhanandeh@gmail.com | https://share.google/rIIfYDCfng5UDLqCS]
+| [ Oula Saleem Hanandeh ] | Data science & Artificial intelligence | [ olasaleemhanandeh@gmail.com | https://github.com/olasaleemhanandeh-ux]
 ## Dataset Specifications
 
 * **Source:** [Kaggle — Anti Money Laundering Transaction Data (SAML-D)](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml)
