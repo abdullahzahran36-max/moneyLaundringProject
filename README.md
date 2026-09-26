@@ -14,7 +14,7 @@ Financial institutions process millions of high-throughput payments daily, where
 | Name | major | Contact |
 | :--- | :--- | :--- |
 | [Ala'a Yahia Almousa ] | Data Science and Artificial Intelligence | [https://github.com/Alaa-20040521 / alaayahia693@gmail.com] |
-| [عبدالرحمن عبدالله الحناقطة] | هندسة أنظمة ذكية | [hanaqtahabdellrahman@gmail.com / https://github.com/abdellrahmanHq] |
+| [Abdellrahman Abdallah Alhanaqtah] | Intelligent Systems Engineering | [hanaqtahabdellrahman@gmail.com / https://github.com/abdellrahmanHq] |
 | [Rana Kamel Khaleel Jumah] | Computer Science | [https://github.com/rana03jumah  / rana03jumah@gmail.com] |
 | [abdullah anas zahran ] | computer information system | [ abdullahzahran36@gmail.com / https://github.com/abdullahzahran36 ] |
 | [ ليث سامي اسماعيل الحواجرة ] |  ذكاء اصطناعي وعلم بيانات (AI & DS) | [ laith.alhawjreh@gmail.com / https://github.com/Laith-Alhawajreh ] |
