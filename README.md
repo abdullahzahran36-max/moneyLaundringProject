@@ -29,6 +29,9 @@ Financial institutions process millions of high-throughput payments daily, where
 * Class 0 (Legitimate): 75,000 transactions (75.0000%)
 * Class 1 (Illicit): 25,000 transactions (25.0000%)
 * Imbalance Ratio: ≈ 1:3
+* **Dataset File:** [Download the 100K Dataset](./aml_100k_unique_with_all_unique_laundering.csv)
+
+
 
 * Typological Patterns: 28 distinct behavioral transaction archetypes (11 benign commercial patterns and 17 financial crime structures including Fan-In, Fan-Out, Cycling, and Cross-Border structuring).
 
