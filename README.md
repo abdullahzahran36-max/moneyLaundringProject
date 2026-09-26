@@ -11,7 +11,7 @@ Financial institutions process millions of high-throughput payments daily, where
 
 ## Contributors
 
-| Name | Role | Contact |
+| Name | major | Contact |
 | :--- | :--- | :--- |
 | [Ala'a Yahia Almousa ] | Data Science and Artificial Intelligence | [https://github.com/Alaa-20040521 / alaayahia693@gmail.com] |
 | [عبدالرحمن عبدالله الحناقطة] | هندسة انظمة ذكية | [hanaqtahabdellrahman@gmail.com / https://github.com/abdellrahmanHq] |
